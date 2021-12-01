@@ -1,0 +1,24 @@
+ru
+Евгений Ломакин
+Анализ изображений чека для учета финансов потребителя
+Информационные системы и технологии
+
+ua
+Євген Ломакін
+Аналіз зображень чека для обліку фінансів споживача
+Інформаційні системи та технології
+
+en
+Yevhen Lomakin
+Analysis of receipt images for accounting of consumer finances
+Information systems and technologies
+
+fr
+Evgeny Lomakin
+Analyse des images de reçus pour la comptabilité des finances des consommateurs
+Systèmes et technologies d'information
+
+ge
+Evgeny Lomakin
+Analyse von Belegbildern zur Abrechnung von Konsumfinanzen
+Informationssysteme und -technologien

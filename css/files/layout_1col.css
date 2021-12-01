@@ -1,0 +1,14 @@
+#middleblock {
+}
+	
+#maintext {
+ 	font: 14pt/120% "Roboto Light";
+	line-height: 110%;
+  	padding: 15pt 10pt;
+	/*position: relative;*/
+	display: block;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #ffffff;
+	box-shadow: 0 2px 4px rgb(0 0 0 / 60%);
+}
