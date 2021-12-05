@@ -8,7 +8,6 @@ $('#scrollTop').fadeIn();
 // Get the menu
 $(function () {
     $(window).scroll(function () {
-
         if (window.pageYOffset >= sticky) {
             menu.classList.add("sticky")
         } else {
@@ -16,6 +15,7 @@ $(function () {
         }
 
         if ($(this).scrollTop() != 0) {
+            $('#scrollTop').css("visibility", "inherit");
             $('#scrollTop').fadeIn();
         } else {
             $('#scrollTop').fadeOut();

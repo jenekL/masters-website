@@ -17,7 +17,6 @@
         a.appendChild(b)
     }
 
-
     function _loadJs(b) {
         var a = document.createElement(g);
         a.type = d;
@@ -25,7 +24,6 @@
         a.src = b;
         p(a)
     }
-
 
     function _loadCss(b) {
         var a = document.createElement(h);
@@ -83,14 +81,12 @@
     })();
 })();
 
-
 window.onload = init;
 
 function init() {
     const ruLang = document.getElementById("ru_lang");
     const uaLang = document.getElementById("ua_lang");
     const enLang = document.getElementById("en_lang");
-
 
     const cookie = get_cookie('googtrans');
     if (cookie == null) {
