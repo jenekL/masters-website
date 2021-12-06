@@ -23,6 +23,14 @@ body:lang(ru) q, body:lang(fr) q {
     quotes: "\00AB" "\00BB" "\201E" "\201C";
 }
 
+.headerLink {
+    color: #f5f3f3;
+}
+
+.headerLink:visited {
+    color: #f5f3f3;
+}
+
 h1 {
     font: bold 18pt "Roboto Light", serif;
     line-height: 100%;
