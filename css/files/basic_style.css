@@ -309,21 +309,6 @@ a:visited {
     padding-top: 60px;
 }
 
-@media screen and (min-width: 1541px) {
-    .menu {
-        justify-content: space-between;
-        margin: 0 10%;
-    }
-}
-
-@media screen and (max-width: 1540px) {
-
-    .menu {
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-}
-
 .button {
     display: block;
     float: left;
@@ -377,6 +362,27 @@ a:visited {
 .menu {
     font: 14pt/100% "Roboto Light", serif;
     display: flex;
+}
+
+
+@media screen and (min-width: 1541px) {
+    .menu {
+        justify-content: space-between;
+        margin: 0 10%;
+    }
+}
+
+@media screen and (max-width: 1540px) {
+
+    .button {
+        font-size: 16px;
+        padding: 0 20px;
+    }
+
+    .menu {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
 }
 
 .scrollTop {
